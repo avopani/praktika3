@@ -34,11 +34,11 @@
 
 5. Создала файл *zad5.sh*, написала код:
 
-<img width="907" height="382" alt="image" src="https://github.com/user-attachments/assets/6a050731-5d60-4c58-b678-c6f8b8552eff" />
+<img width="666" height="472" alt="image" src="https://github.com/user-attachments/assets/2ab9409c-d4da-4e02-9d6f-08f4e71597c2" />
 
 Сделала файл исполняемым и запустила скрипт:
 
-<img width="609" height="113" alt="image" src="https://github.com/user-attachments/assets/53bd2e51-e122-4060-9ba1-7db1cf6115cd" />
+<img width="536" height="115" alt="image" src="https://github.com/user-attachments/assets/abfd7798-07e7-4906-9778-b44c3677578c" />
 
 6. Создала файл *zad6.sh*, написала код:
    
